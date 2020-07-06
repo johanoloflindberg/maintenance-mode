@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/"
-  to = "/maintenance"
-  status = 307
+  to = "/maintenance.html"
+  status = 302
